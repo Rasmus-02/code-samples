@@ -18,5 +18,6 @@ https://rasmuskullasportfolio.my.canva.site/
 ## Structure
 
 Each project is split into its own folder.
+Each project has their own README files explaining the project, goals and achievements.
 The year in which the project was created is included in the folder name, making it easier to follow my development and improvement over time as a software developer.
 Older projects are kept intentionally to show progression rather than just end results.
