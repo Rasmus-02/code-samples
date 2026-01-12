@@ -4,14 +4,14 @@ A battlebots inspired game where the player builds and programs their own robot.
 
 ## Goals
 
-Learn C#
-Get better at writing clean code
-Make a game that would be successful at ICT showroom
+- Learn C#
+- Get better at writing clean code
+- Make a game that would be successful at ICT showroom
 
 ## Achievements
 
-I learned C#
-I got better at writing cleaner code
-Clank-Robotics will represent what students are able to do with a DI-degree in computer engineering at DI-dagen at Åbo Akademi
-(ICT showroom has not yet happened, will update with results)
+- I learned C#
+- I got better at writing cleaner code
+- Clank-Robotics will represent what students are able to do with a DI-degree in computer engineering at DI-dagen at Åbo Akademi
+- (ICT showroom has not yet happened, will update with results)
 
