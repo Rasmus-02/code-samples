@@ -5,16 +5,16 @@ Our approach was making a zombie apocalypse game where the player is patient zer
 
 ## Goals
 
-Make a fun and enjoyable game.
-Get a good placing.
-Get a web build working.
+- Make a fun and enjoyable game.
+- Get a good placing.
+- Get a web build working.
 
 
 ## Achievements
 
-Reached top 8% in "fun" category out of 1150 submissions.
-Reached top 14% in total score out of 1150 submissions.
-Got the web build working.
+- Reached top 8% in "fun" category out of 1150 submissions.
+- Reached top 14% in total score out of 1150 submissions.
+- Got the web build working.
 
 
 
