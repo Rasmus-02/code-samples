@@ -9,7 +9,7 @@ The code in this repository consists of parts of larger systems and games that a
 - Most code depends on other parts of its original project and is therefore not expected to work in isolation.
 - The focus of this repository is to showcase structure, problem-solving, and implementation rather than complete, standalone projects.
 
-You can find the full projects on my itch.io:  
+You can find some of the full projects on my itch.io:  
 https://itch.io/profile/rasmus-02
 
 You can also read more about them in my project portfolio:  
